@@ -1,2 +1,2 @@
 # AutomationTestingCypress
-Automated tests done using CypressJs
+Automated tests using CypressJs
